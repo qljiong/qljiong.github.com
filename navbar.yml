@@ -1,0 +1,7 @@
+- label: 关于我
+  href: /pages/about-me.html
+  target: _self
+
+- label: github
+  href: https://github.com/ericzhang-cn/papery
+  target: _blank
